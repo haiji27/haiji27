@@ -6,4 +6,5 @@ Hari ini saya mempelajari dasar Git dan GitHub, meliputi:
 - Pembuatan branch
 - Commit dan push ke GitHub
 
-Pembelajaran ini membantu saya memahami alur kerja GitHub.
+Pembelajaran ini membantu saya memahami alur kerja GitHub
+dan memahami alur branch dan pull request.
