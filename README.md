@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="bannerku.jpeg" />
+  <img src="fotoku.jpeg" width="150" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Haiji</h1>
 <h3 align="center">Mahasiswa | Sedang belajar Git & GitHub</h3>
 
-<p align="center">
-  <img src="fotoku.jpeg" width="150" style="border-radius:50%;" />
-</p>
 ---
 
 ### 🙋 Tentang Saya
